@@ -1,0 +1,28 @@
+**************************************************************
+
+Name	          	Mob. No.  	Address        
+Utkarsh Verma  	9811272448	SDR            
+
+Products Bought :
+Prdct No. Prdct Name  Prdct Quantity  Price     
+101       Shirt       50              50000.00  
+
+**************************************************************
+
+Name	          	Mob. No.  	Address        
+Ajai           	9838703202	NGH SDR        
+
+Products Bought :
+Prdct No. Prdct Name  Prdct Quantity  Price     
+102       Jeans       20              40000.00  
+101       Shirt       2               2000.00   
+
+**************************************************************
+
+Name	          	Mob. No.  	Address        
+utkarsh        	9811272456	ff gfn         
+
+Products Bought :
+Prdct No. Prdct Name  Prdct Quantity  Price     
+101       ef          9               180.00    
+
